@@ -1,0 +1,18 @@
+# Local database
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# System and editor files
+.DS_Store
+.vscode/
+.env
